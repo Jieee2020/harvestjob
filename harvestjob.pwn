@@ -38,7 +38,7 @@ enum harvestEnum
 
 new const plantPositions[][harvestEnum] =
 {
-	//Text - PosX, PosY, PosZ, objectid
+	//Text - PosX, PosY, PosZ
 	{"{00FF00}Marijuana {FFFFFF}plant", -1030.6951, -1006.0359, 129.2126},
 	{"{00FF00}Marijuana {FFFFFF}plant", -1060.9229, -928.9621, 129.2188},
 	{"{00FF00}Marijuana {FFFFFF}plant", -1114.4142,-1030.7312,129.2188},
